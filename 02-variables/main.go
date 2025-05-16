@@ -138,4 +138,6 @@ func main() {
 
 	fmt.Printf("\nÁrea: %.*f\n", precision, area)
 	fmt.Printf("Perímetro: %.*f\n", precision, perimetro)
+
+	//Se borra la linea de acuerdo a sugerencia
 }
