@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("This line was written from branch-03!")
 	fmt.Println("This line was written from branch-04!")
 	fmt.Println("This line was written from branch-05!")
+	fmt.Println("This line was written from branch-06!")
 }
